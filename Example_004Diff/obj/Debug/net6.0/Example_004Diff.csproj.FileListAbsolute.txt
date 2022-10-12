@@ -1,0 +1,15 @@
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\Example_004Diff.csproj.AssemblyReference.cache
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\Example_004Diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\Example_004Diff.AssemblyInfoInputs.cache
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\Example_004Diff.AssemblyInfo.cs
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\Example_004Diff.csproj.CoreCompileInputs.cache
+C:\Users\never\Desktop\GB\Example_004Diff\bin\Debug\net6.0\Example_004Diff.exe
+C:\Users\never\Desktop\GB\Example_004Diff\bin\Debug\net6.0\Example_004Diff.deps.json
+C:\Users\never\Desktop\GB\Example_004Diff\bin\Debug\net6.0\Example_004Diff.runtimeconfig.json
+C:\Users\never\Desktop\GB\Example_004Diff\bin\Debug\net6.0\Example_004Diff.dll
+C:\Users\never\Desktop\GB\Example_004Diff\bin\Debug\net6.0\Example_004Diff.pdb
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\Example_004Diff.dll
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\refint\Example_004Diff.dll
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\Example_004Diff.pdb
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\Example_004Diff.genruntimeconfig.cache
+C:\Users\never\Desktop\GB\Example_004Diff\obj\Debug\net6.0\ref\Example_004Diff.dll
