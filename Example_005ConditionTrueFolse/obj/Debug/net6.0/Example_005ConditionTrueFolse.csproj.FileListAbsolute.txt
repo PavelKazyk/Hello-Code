@@ -1,0 +1,15 @@
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\Example_005ConditionTrueFolse.csproj.AssemblyReference.cache
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\Example_005ConditionTrueFolse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\Example_005ConditionTrueFolse.AssemblyInfoInputs.cache
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\Example_005ConditionTrueFolse.AssemblyInfo.cs
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\Example_005ConditionTrueFolse.csproj.CoreCompileInputs.cache
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\bin\Debug\net6.0\Example_005ConditionTrueFolse.exe
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\bin\Debug\net6.0\Example_005ConditionTrueFolse.deps.json
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\bin\Debug\net6.0\Example_005ConditionTrueFolse.runtimeconfig.json
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\bin\Debug\net6.0\Example_005ConditionTrueFolse.dll
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\bin\Debug\net6.0\Example_005ConditionTrueFolse.pdb
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\Example_005ConditionTrueFolse.dll
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\refint\Example_005ConditionTrueFolse.dll
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\Example_005ConditionTrueFolse.pdb
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\Example_005ConditionTrueFolse.genruntimeconfig.cache
+C:\Users\never\Desktop\GB\Example_005ConditionTrueFolse\obj\Debug\net6.0\ref\Example_005ConditionTrueFolse.dll
